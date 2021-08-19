@@ -28,7 +28,7 @@ Welcome to my GitHub accounts, hopefully my repository not against the rules.
 </p>
 
 <p align="center">
-<b>ðŸ“« Reach Me</b>
+<b>Reach Me</b>
 </p>
 <p align="center">
 <b>Telegram</b> - <a href='https://t.me/Km30JR'>@Km30JR</a>
