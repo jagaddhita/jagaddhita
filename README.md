@@ -5,7 +5,7 @@
 <p align="center">
 Welcome to my GitHub accounts, hopefully my repository not against the rules.
 </p>
-
+<hr>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaddhita&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
@@ -14,9 +14,9 @@ Welcome to my GitHub accounts, hopefully my repository not against the rules.
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
 </p> -->
-
+<hr>
 <p align="center">
-<img src ="https://komarev.com/ghpvc/?username=jagaddhita&style=flat-square&color=red">
+<img src ="https://komarev.com/ghpvc/?username=jagaddhita&style=flat-square&color=blue">
 </p>
 
 <p align="center">
