@@ -9,8 +9,10 @@ Welcome to my GitHub accounts, hopefully my repository not against the rules.
 </p>
 <hr>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=risecid&show_icons=true&theme=highcontrast"></a></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risecid&theme=highcontrast&layout=compact"></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&theme=highcontrast"></a>
+</p>
+<p align="center"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaddhita&theme=highcontrast&layout=compact"></a>
 </p>
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
