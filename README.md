@@ -9,8 +9,8 @@ Welcome to my GitHub accounts, hopefully my repository not against the rules.
 </p>
 <hr>
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaddhita&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+<img src="https://github-readme-stats.vercel.app/api?username=risecid&show_icons=true&theme=highcontrast"></a></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risecid&theme=highcontrast&layout=compact"></a></p>
 </p>
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
@@ -33,5 +33,5 @@ Welcome to my GitHub accounts, hopefully my repository not against the rules.
 <b>Reach Me</b>
 </p>
 <p align="center">
-<b>Telegram</b> - <a href='https://t.me/Km30JR'>@Km30JR</a>
+<a href="https://www.t.me/Km30JR" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact_Me-blue?style=for-the-badge&logo=Telegram">
 </p>
