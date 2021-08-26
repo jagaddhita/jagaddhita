@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Welcome to my GitHub accounts, hopefully my repository not against the rules.
+Welcome to my GitHub accounts, here is some about me at GitHub.
 </p>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&theme=highcontrast"></a></p>
