@@ -10,7 +10,7 @@ Welcome to my GitHub accounts, here is some about me at GitHub.
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&theme=highcontrast"></a></p>
 <p align="center"><a href="https://github.com/jagadhita"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaddhita&theme=highcontrast&layout=compact"></a></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaddhita&custom_title=jagaddhita's%20Week%20Stats&hide_title=false&hide_border=false&langs_count=10"
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=jagaddhita&theme=highcontrast&custom_title=jagaddhita's%20Week%20Stats&hide_title=false&hide_border=false&langs_count=10"
 <p align="center"><img src='https://profile-counter.glitch.me/jagaddhita/count.svg' width='0px'>
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
