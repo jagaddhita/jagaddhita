@@ -3,6 +3,9 @@
   <b>Hemnlo Boii</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 </p>
+<p>
+<img align="center" alt="GIF" src="https://github.com/jagaddhita/jagaddhita/blob/master/coding.gif?raw=true" width="408" height="318" />
+</p>
 
 <p align="center">
 Welcome to my GitHub accounts, here is some about me at GitHub.
@@ -22,9 +25,6 @@ Welcome to my GitHub accounts, here is some about me at GitHub.
 <hr>
 <p align="center">
 <img src ="https://komarev.com/ghpvc/?username=jagaddhita&style=flat-square&color=blue">
-</p>
-<p>
-<img align="center" alt="GIF" src="https://github.com/jagaddhita/jagaddhita/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
 
 <p align="center">
