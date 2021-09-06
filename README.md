@@ -24,7 +24,7 @@ Welcome to my GitHub accounts, here is some about me at GitHub.
 <img src ="https://komarev.com/ghpvc/?username=jagaddhita&style=flat-square&color=blue">
 </p>
 <p>
-<img align="center" alt="GIF" src="https://github.com/jagaddhita/jagaddhita/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="center" alt="GIF" src="https://github.com/jagaddhita/jagaddhita/blob/master/coding.gif?raw=true" width="408" height="318" />
 </p>
 
 <p align="center">
