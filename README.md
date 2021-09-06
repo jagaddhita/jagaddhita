@@ -13,11 +13,10 @@ Welcome to my GitHub accounts, here is some about me at GitHub.
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jagaddhita&show_icons=true&theme=highcontrast"></a></p>
 <p align="center"><a href="https://github.com/jagadhita"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagaddhita&theme=highcontrast&layout=compact"></a></p>
-<p align="center"><span>📊 This Week I Spent My Time On:</span>
-<!--START_SECTION:waka-->
-```
-```
-<!--END_SECTION:waka-->
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/wakatime?username=jagaddhita&custom_title=Jalu's%20Week%20Stats&hide_title=true&hide_border=true&langs_count=10)
+
+
+
 <!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=jagaddhita&repo=jagaddhita">
